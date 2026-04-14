@@ -1,0 +1,21 @@
+# .NET build output
+bin/
+obj/
+
+# User and IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archives and course documents
+*.zip
+*.pdf
+*.doc
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
